@@ -6,3 +6,6 @@ b = True
 if (a <= 10):
     b = False
     
+    print(a)
+else:
+    print(a-2)
